@@ -63,4 +63,4 @@ If you're haveing trouble or you found an error feel free to open a github ticke
 ## Sensio Connect
 
 https://connect.sensiolabs.com/club/symfony2admingenerator
-
+_Testing install with custom branch_
